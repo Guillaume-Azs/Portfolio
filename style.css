@@ -288,7 +288,6 @@ h1 {
 
 @media screen and (max-width: 1300px) {
     .accueil {
-        height: 150vh;
         width: 100%;
     }
 }
@@ -394,7 +393,6 @@ h1 {
         height: 3px;
     }
     .accueil {
-        height: 140vh;
         background-position: top center;
     }
     h1 {
